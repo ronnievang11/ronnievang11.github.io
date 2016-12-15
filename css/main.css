@@ -14,12 +14,28 @@ body {
   padding: 30px 0;
 }
 
-.navbar {
-  margin-top: 20px;
-}
+/*.navbar {*/
+  /*margin-top: 20px;*/
+/*}*/
 
 footer {
   padding-bottom: 20px;
 }
+#mainCarousel{
+  padding-top: 52px;
+  align-content: center;
+  align-items: center;
+}
 
+.carousel .item img {
+padding-left: 200px;
+}
+#mainpix{
+  border:darkblue solid 5px;
+}
+
+#mainpix1{
+  padding-top: 100px;
+
+}
 /*# sourceMappingURL=main.css.map */
